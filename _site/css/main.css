@@ -1238,7 +1238,7 @@ html[xmlns] .flexslider .slides {
   .cta-button a {
     color: #b40101; }
   .cta-button:hover {
-    border: 2px solid #fff;
+    border: 2px solid #b40101;
     color: #fff;
     background-color: #b40101; }
     .cta-button:hover a {
