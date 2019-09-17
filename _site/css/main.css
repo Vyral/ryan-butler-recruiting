@@ -1355,7 +1355,7 @@ html[xmlns] .flexslider .slides {
 
 .cta {
   background: transparent;
-  color: #123456;
+  color: #b40101;
   text-transform: capitalize;
   font-size: 2rem;
   font-weight: 300; }
@@ -2332,7 +2332,8 @@ table tr, table td {
   padding: 0px 10px 40px;
   font-size: 18px; }
   .about-container div {
-    display: flex; }
+    display: inline-block;
+    text-align: center; }
 
 .about-text {
   display: flex;
@@ -2555,7 +2556,7 @@ form select {
 
 .cta {
   background: transparent;
-  color: #123456;
+  color: #b40101;
   text-transform: capitalize;
   font-size: 2rem;
   font-weight: 300; }
