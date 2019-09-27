@@ -39,9 +39,9 @@ permalink: /strategy-call/
 <div class="qanda">
 <p class="section-title">Here’s what a few agents say about working with me…</p>
 
-<p><span class="quote">High-level training, mentorship, and stellar systems has streamlined my business with consistent growth year over year. The training and strategic opportunities CPG provides guarantees success. Direct access to Harrison, Ryan, and Keith shortened my learning curve and gives me access to resources that I didn't have as a solo agent.</span></p>
+<p><span class="quote">"High-level training, mentorship, and stellar systems has streamlined my business with consistent growth year over year. The training and strategic opportunities CPG provides guarantees success. Direct access to Harrison, Ryan, and Keith shortened my learning curve and gives me access to resources that I didn't have as a solo agent."</span></p>
 
-<p><span class="quote">The training has elevated my thinking about the level of success that can be achieved as a purposeful servant leader for clients in the community. The personal success I am experiencing now is definitely in direct correlation to learning the skills and strategies in the training/coaching sessions as well as just being in close contact with top agents on our team making things happen in a huge way.</span></p>
+<p><span class="quote">"The training has elevated my thinking about the level of success that can be achieved as a purposeful servant leader for clients in the community. The personal success I am experiencing now is definitely in direct correlation to learning the skills and strategies in the training/coaching sessions as well as just being in close contact with top agents on our team making things happen in a huge way."</span></p>
 
 <!--<p><span class="quote"></span><br>-->
 <!--<span class="author"></span></p>-->
